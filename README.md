@@ -1,4 +1,4 @@
-# Number-Plate-Recognition
+# Car License-Plate-Recognition
 Number Plate Recognition using YOLO
 Car License Plate Detection project is used for detecting License plate in the image. The main features of this project is to draw bounding boxes in the image 
 around the license plate and achieve a detection speed of 5 fps in I5 system without any gpu support.
